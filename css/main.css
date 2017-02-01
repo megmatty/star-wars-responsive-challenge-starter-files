@@ -1,0 +1,44 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+/*Mobile state sized for 375vw and up*/
+
+header {
+	background-color: #E8B759;
+	padding: 5px 0;
+	line-height: 1;
+	margin-bottom: 30px;
+}
+
+header h3 {
+	font-weight: normal;
+}
+
+.titles {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.card {
+	border: 1px solid #ddd;
+	padding-bottom: 15px;
+}
+
+.card img {
+	width: 100%;
+}
+
+.name {
+	font-weight: bold;
+	padding-left: 20px;
+}
+
+.description {
+	padding-left: 20px;
+}
+
